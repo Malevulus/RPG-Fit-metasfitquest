@@ -1,0 +1,6 @@
+{
+  "name": "MetasFitQuest - Controle sua vida e otimize com mais XP",
+  "description": "MetasFitQuest: Controle sua vida e otimize com mais XP. Aplicativo gamificado de metas fitness, nutrição, treinos, hidratação e comunidade com XP e recompensas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
